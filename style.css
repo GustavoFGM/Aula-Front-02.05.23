@@ -1,0 +1,32 @@
+body{
+    background-image: linear-gradient(to right, rgb(194, 219, 226),  blue, black);
+}
+
+ul{
+    padding: 0%;
+    height: 72.5px;
+    width: 90px;
+    background-color: aquamarine;
+}
+
+li a{
+    text-decoration: none;
+}
+
+.menu{
+    background-color: rgb(0, 255, 115);
+    display: none;
+}
+
+.menu1{
+    background-color: rgb(255, 251, 0);
+}
+
+ul:hover li{
+    display: block;
+}
+
+p{
+    color: rgb(248, 248, 28);
+}
+
